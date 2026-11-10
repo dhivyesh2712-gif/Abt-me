@@ -1,7 +1,7 @@
 # Abt-me
 <div align="center">
   <h1>Hi there, I'm G Dhivyesh 👋</h1>
-  <h3>B.Tech Information Technology Student | MERN Full-Stack Learner | AI & Algorithmic Trading Enthusiast</h3>
+  <h3>B.Tech Information Technology Student | MERN Full-Stack Learner | 
 
   <p>
     <a href="https://linkedin.com/in/g-dhivyesh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
